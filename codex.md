@@ -53,10 +53,8 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 ### 1. Metabeliefs
 Beliefs about beliefs.
 
-- Beliefs are words/rules/affirmations/story/brain-apps/lines of codes that we attach to. #Note: From this point I will call every of this word as "word".
+- Beliefs are words/rules/affirmations/story/brain-apps/lines-of-codes that runs our lives. #Note: From this point I will call believe as a "word".
 - By changing my "word set" I change my behaviour.
-- My true believes bring me to my goal.
-- The stronger word - the stronger emotional attachment to our words.
 
 - This document's purpose is to capture my words about anything, analyze them and change to the most appropriate according to my final goal & choosen path.
 - This document's benefits grow in a compound interest kind of way, over time, as words course correct over time, and build on one another.
@@ -69,72 +67,75 @@ Beliefs about beliefs.
 
 
 #### Metaphysics:
-- Karma/luck/destiny/call/butterfly-effect: every event has cause and effect.
-- You can only feel the True/source/God/soul/right/meaning/purpose/randomness, not understand.
+- Life is a game. Enjoy it.
+- Karma/luck/destiny/call/butterfly-effect exists/works: every event has cause and effect.
+- You can only **feel** the True/source/God/soul/right/meaning/purpose/randomness, not understand it.
 - Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
 - Wisdom is a knowleadge applied to life.
 - Evolution is the nature is learning by itself.
 - If you want to understand recursion you need to understand recursion.
 - Everything is going through cycle born and die.
-- There are more than 3 dimension.
-- The Matrix is real! Most likely we live in simulation.
-- The Secret/transurfing works.
+- The Secret/transurfing works. Observe your thoughts.
 - Placebo works better if you believe on it deeper with no doubt.
+- Everything is the one/counsisncessness/the-matrix/AI, we are all connected.
 
 #### 3. Perceptions.
 Supersenses. My take on the spiritual and supernatural.
 
-- Write my mission/final_goal/destiny/call/way/path is like knowing the future: Bring awareness/counsisncessness to changes.
+- Writing my mission/final_goal/destiny/call/way/path is like knowing the future: Bring awareness/counsisncessness to changes.
 - My self-declared purpose is to enjoy quality time (with myself, my family, my friends, my partners) by discovering and removing obstacles that hinder quality time.
 - Frequently remembering we will die increases the quality of our life.
 - Soul is a word describes the deepest meaning of person/animal/object.
 — Spirit translated as a breath.
 - Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
-- Astrology/stars/sun/planets influent to us as long as we allow them to.
+- Astrology/stars/sun/planets influent to us by gravitation.
 - Science can't explain everything. Most in the "not yet" bucket, but some in the "never" bucket.
-- Heaven/God/angels and hell/devil/demons are exist inside us.
-— Jesus, Buddha, Muhamed, Confucious were extraordinary humans.
+- Heaven/God/angels and hell/devil/demons starts from inside out.
+— Jesus, Buddha, Muhamed, Confucious were extraordinary human beings.
 
 Explanatory. Science, politics, and the universe.
 
-- We probably live in a simulation (see digital realism).
-— We are biorobots (habits - apps), zombies (phone addicted).
+- We probably live in a simulation(the matrix) (see digital realism).
+— We are biorobots (habits == apps), or phylosophical zombies (phone addicted).
 - Other dimensions and universes exist.
 - Micro and macro evolution happens.
-- Big Bang is like a reboot of the universe.
-- Something existed before the Big Bang (outside of time and space as we know them).
+- Big Bang is like a reboot of the universe or a multiverse multiplication through the wormhole/black-hole.
 - Nothing in our universe can travel faster than light.
-- The human brain (in its current state of evolution) can't comprehend the universe.
+- The human brain (in its current state of evolution) can't comprehend our universe or multiverse.
 - Non-carbon-based life forms exist.
-- Aliens exist. Mostly our ancients/gods are aliens. We are aliens as well.
+- Aliens exist. Mostly our ancients/gods are aliens. We have aliens dna.
+- Chakras exists.
+- Aura is electro-magnetic field of the human body.
 - Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
-- Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
+- Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy, healthcare, travel, education).
 - Privacy is just a side effect of people not being truly connected.
-- Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
+- Being good/moral increasingly becomes our default state as we learn more about ourselves, the world and are more connected with each other.
 - For most questions answers might be found inside the self, Google & Wikipedia.
 - Logic is a helpful tool, but has flaws and can't be relied on entirely.
 - Acupuncture works, somehow.
-- Some vaccinations are good for babies and society.
+- Some vaccinations are good.
+- Editing DNA might be helpful.
+- AI exists and getting more aware of itself.
 
 ### 4. Relationship believes
 
 — People are the most important in this life.
 - The most important person is that who is in front of me.
+- The meaning of life is in connections.
 
 * Stranger - from the grocery checker to people on continents you may never visit.
-- We are all the one.
 - Everybody has they purpose.
-- When americans ask first time how do you do - tell me shortly. It's just an app of greetings.
-- If I don't know you, but if you come to my world there is some purpose of our connection.
+- When americans ask first time how do you do - tell them shortly. It's just an app of greetings.
+- If I met you there is some purpose of our connection.
 - I can coach anyone who needs it.
 
 * Friend - the people you like to hang out with.
-- Threat this person if it's only one person besides you on this planet.
-- Invest 1hr+ every week with best friend at the time.
+- Treat this person if it's only the one person besides you on this planet.
+- Spend 1hr+ with best friend every week.
 - Keep in touch with friends.
 - I have so much to learn from my friends.
-- Friend are happy for my wins.
-- Friend are not always supportive, but they want me the best.
+- Friends are happy for my wins.
+- Friends are not always supportive, but they want me the best.
 - I am = my peer group's expectations.
 
 * Partner/Spouse/Romance - However you define these relationships in your life.
@@ -142,16 +143,18 @@ Explanatory. Science, politics, and the universe.
 - At least one 2hr+ date each week helps to keep it healthy.
 - Every day say I love you, thank you.
 - Kiss & Hug morning.
-- Apologies quickly if couldn't find comprimise.
+- Apologies quickly if couldn't find a comprimise.
 - Happy wife = happy life.
 - I respect her way.
 
 * Family - Brothers, sisters, aunts, uncles, children, nieces and nephews.
-- My brother is "gemini twin" brother.
-- His is my first teacher mentor/coach.
+- My brother is my "gemini twin" brother.
+- He is my first teacher mentor/coach.
+- My father is non-traditional buddhist.
+- My mom is always in my hearth.
 
 * Pets - dots, cats, fish, bird
-– Rocky is a great teacher of unconditional love.
+– Rocky is a great teacher of unconditional love and my best friend.
 – Juk is our silent fish. He eats loudly.
 
 ### 6. Opinions
@@ -174,8 +177,8 @@ How I believe society should be structured.
 - Health care (physical & mental) should be available and affordable to everyone who needs it.
 - The death penalty should be illegal.
 - Prisons should be about protecting the public, not about punishment.
-- Marijuana better than alchohol and should be legal to grow, sell, buy, and carry.
-– Any addictiviness (alcohol/marijuana/phone/sugar) should be explained in school.
+- Marijuana is better than alchohol and should be legal to grow, sell, buy, and carry.
+– Any addictiviness (news/alcohol/marijuana/phone/sugar) should be explained in school.
 - Owning a gun should illegal.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
 - Guaranteed basic income should be a thing available to everyone.
@@ -185,9 +188,6 @@ How I believe society should be structured.
 ### 7. Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
-#### 7. Predictions: By 2016
-- Hillary will win the election
-
 #### 7. Predictions: By 2025
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
 - The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
@@ -196,7 +196,7 @@ How I think things will be in the future, based on the approximate year I think 
 #### 7. Predictions: By 2030
 - We'll have a President that admits to being atheist or agnostic.
 - Safe, genetically modified foods will become the norm.
-- the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
+- The equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
 
 #### 7. Predictions: By 2050
 - Computers will be building better computers than humans.
@@ -230,7 +230,7 @@ Writing I've loved and come back to a bunch of times.
 
 
 ### Books 
-Tell me what books you read and i will predict your future.
+"Tell me what books you read and i will predict your future."
 
 Each of these books has changed how I see the world. Few words about each book.
 * 7 Habits of Highly Effective People. Steven Covey - habits shape destiny.
@@ -260,7 +260,7 @@ Each of these books has changed how I see the world. Few words about each book.
 * Рыцари Сорока Островов. Мальчик и Тьма. Sergei Lukyanenko - good friend is rare.
 * Benjamin Franklin: An American Life. Isaacson, Walter - be an entrepreneur.
 * You Can Heal Your Life. Louise L. Hay - only you can heal yourself.
-* Алмазная колесница. Boris Akunin - evil is part of you.
+* Алмазная колесница. Boris Akunin - evil is part of us.
 * Steve Jobs. Isaacson, Walter - think differently.
 * Think and Grow Rich. Napoleon Hill - how to use mind to get rich.
 * The Richest Man in Babylon. George S. Clason - pay yourself first.
@@ -284,7 +284,9 @@ Each of these books has changed how I see the world. Few words about each book.
 
 ### My writing
 Stuff that I've written that means something to me.
+TODO
 ***
 
 ### Yearly reports
 Yearly reports would be here.
+TODO
