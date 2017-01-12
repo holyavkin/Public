@@ -14,7 +14,7 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 
 1. Read this with the understanding that you are different than Pavel — the way he lives his life is not the way you should live yours.
 2. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-3. Check the TODO [Changelog](https://github.com/) for updates since you last visited.
+3. Check the [Changelog](https://github.com/spiritualcoach/Public/commits/master/codex.md) for updates since you last visited.
 4. Consider creating your own Codex ([here's a template](https://www.penflip.com/terrie/codex-vitae-template))
 
 ## Table of contents
@@ -44,7 +44,7 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 - [my writing](#my-writing)
 
 #### Changelog
-- TODO [history of changes to this document](https://github.com/)
+- [history of changes to this document](https://github.com/spiritualcoach/Public/commits/master/codex.md)
 - TODO [monthly reports](https://)
 - TODO [yearly reports](https://)
 
@@ -91,12 +91,12 @@ Supersenses. My take on the spiritual and supernatural.
 - Astrology/stars/sun/planets influent to us by gravitation.
 - Science can't explain everything. Most in the "not yet" bucket, but some in the "never" bucket.
 - Heaven/God/angels and hell/devil/demons starts from inside out.
-— Jesus, Buddha, Muhamed, Confucious were extraordinary human beings.
+— Jesus, Buddha, Muhammad, Confucious were extraordinary human beings.
 
 Explanatory. Science, politics, and the universe.
 
 - We probably live in a simulation(the matrix) (see digital realism).
-— We are biorobots (habits == apps), or phylosophical zombies (phone addicted).
+— We are biorobots (habits == apps), or phylosophical zombies (content addicted).
 - Other dimensions and universes exist.
 - Micro and macro evolution happens.
 - Big Bang is like a reboot of the universe or a multiverse multiplication through the wormhole/black-hole.
@@ -124,14 +124,14 @@ Explanatory. Science, politics, and the universe.
 - The meaning of life is in connections.
 
 * Stranger - from the grocery checker to people on continents you may never visit.
-- Everybody has they purpose.
+- Everyone has a purpose.
 - When americans ask first time how do you do - tell them shortly. It's just an app of greetings.
 - If I met you there is some purpose of our connection.
 - I can coach anyone who needs it.
 
 * Friend - the people you like to hang out with.
 - Treat this person if it's only the one person besides you on this planet.
-- Spend 1hr+ with best friend every week.
+- Spend 1hr+ with my friend every week.
 - Keep in touch with friends.
 - I have so much to learn from my friends.
 - Friends are happy for my wins.
@@ -142,7 +142,7 @@ Explanatory. Science, politics, and the universe.
 - My wife is my best friend.
 - At least one 2hr+ date each week helps to keep it healthy.
 - Every day say I love you, thank you.
-- Kiss & Hug morning.
+- Kiss & Hug every morning.
 - Apologies quickly if couldn't find a comprimise.
 - Happy wife = happy life.
 - I respect her way.
@@ -177,7 +177,7 @@ How I believe society should be structured.
 - Health care (physical & mental) should be available and affordable to everyone who needs it.
 - The death penalty should be illegal.
 - Prisons should be about protecting the public, not about punishment.
-- Marijuana is better than alchohol and should be legal to grow, sell, buy, and carry.
+- Marijuana is better medicine than alchohol and should be legal to grow, sell, buy, and carry.
 – Any addictiviness (news/alcohol/marijuana/phone/sugar) should be explained in school.
 - Owning a gun should illegal.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
@@ -190,7 +190,7 @@ How I think things will be in the future, based on the approximate year I think 
 
 #### 7. Predictions: By 2025
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
-- The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
+- The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimer's) but not stop there.
 - Self-driving vehicles will begin to replace truck & taxi drivers, impacting employment rates in the country.
 
 #### 7. Predictions: By 2030
@@ -214,7 +214,7 @@ How I think things will be in the future, based on the approximate year I think 
 ## Glossary
  
 ### What is this?
-This document was started in [August of 2016](https://github.com/) as a result of an following VIP coaching on Coach.me.
+This document was started in [August of 2016](https://github.com/spiritualcoach/Public/commit/c99899e11d49a471ba31857320fd76245c2e39ab) as a result of an following VIP coaching on Coach.me.
 
 ### Codex vitae
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
