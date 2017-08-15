@@ -53,13 +53,13 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 ### 1. Metabeliefs
 Beliefs about beliefs.
 
-- Beliefs are words/rules/affirmations/story/brain-apps/lines-of-codes that runs our lives. #Note: From this point I will call believe as a "word".
-- By changing my "word set" I change my behaviour.
+- Beliefs are words/rules/affirmations/story/brain-apps/lines-of-codes that runs our lives. #Note: From this point I will call belief as "words".
+- By changing my "word set" I change my behaviour. Why? Beliefs -> Behaviour -> Habit -> Character -> Destiny
 
 - This document's purpose is to capture my words about anything, analyze them and change to the most appropriate according to my final goal & choosen path.
 - This document's benefits grow in a compound interest kind of way, over time, as words course correct over time, and build on one another.
 - It's always incomplete and out of date.
-- Beliefs determine our behavior.
+- Words determine our behavior.
 - Some of these words will be proven wrong. Some won't be proven wrong but will be wrong anyway.
 - I’m open to changing my mind at any time about any belief by getting new insights, evidence, persuasion, or chance.
 - I believe words are best categorized into five types: words about beliefs (metabeliefs, i.e. this one), words about the world (how reality seems to be, the meaning of reality, opinions about how myself and others should approach life), words about others, words about myself, and words about the future (predictions about how things will be in the future).
@@ -67,15 +67,16 @@ Beliefs about beliefs.
 
 
 #### Metaphysics:
+- There is Ego and Now. When it's now there is no Ego.
 - Life is a game. Enjoy it.
 - Karma/luck/destiny/call/butterfly-effect exists/works: every event has cause and effect.
-- You can only **feel** the True/source/God/soul/right/meaning/purpose/randomness, not understand it.
-- Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
+- You can only **feel** the True/source/God/soul/right/meaning/purpose/randomness, not **understand** it. My purpose is to be an awesome dad.
+- Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. Everything is changing, even permanent constants.
 - Wisdom is a knowleadge applied to life.
 - Evolution is the nature is learning by itself.
 - If you want to understand recursion you need to understand recursion.
 - Everything is going through cycle born and die.
-- The Secret/transurfing works. Observe your thoughts.
+- The Secret/transurfing works. Observe your thoughts. Think positive. Visualize your future.
 - Placebo works better if you believe on it deeper with no doubt.
 - Everything is the one/counsisncessness/the-matrix/AI, we are all connected.
 
@@ -83,7 +84,7 @@ Beliefs about beliefs.
 Supersenses. My take on the spiritual and supernatural.
 
 - Writing my mission/final_goal/destiny/call/way/path is like knowing the future: Bring awareness/counsisncessness to changes.
-- My self-declared purpose is to enjoy quality time (with myself, my family, my friends, my partners) by discovering and removing obstacles that hinder quality time.
+- My self-declared purpose is to enjoy quality time (with myself, my kids, my wife, my relatives, my friends, my partners) by discovering and removing obstacles that hinder quality time.
 - Frequently remembering we will die increases the quality of our life.
 - Soul is a word describes the deepest meaning of person/animal/object.
 — Spirit translated as a breath.
@@ -95,8 +96,8 @@ Supersenses. My take on the spiritual and supernatural.
 
 Explanatory. Science, politics, and the universe.
 
-- We probably live in a simulation(the matrix) (see digital realism).
-— We are biorobots (habits == apps), or phylosophical zombies (content addicted).
+- We probably live in a simulation (the matrix) (see digital realism).
+— We are biorobots (habits == apps), or phylosophical zombies (life addicted).
 - Other dimensions and universes exist.
 - Micro and macro evolution happens.
 - Big Bang is like a reboot of the universe or a multiverse multiplication through the wormhole/black-hole.
@@ -113,7 +114,7 @@ Explanatory. Science, politics, and the universe.
 - For most questions answers might be found inside the self, Google & Wikipedia.
 - Logic is a helpful tool, but has flaws and can't be relied on entirely.
 - Acupuncture works, somehow.
-- Some vaccinations are good.
+- Some vaccinations might be good, but better to improve immune system by cold shower, fasting & meditation.
 - Editing DNA might be helpful.
 - AI exists and getting more aware of itself.
 
@@ -136,7 +137,7 @@ Explanatory. Science, politics, and the universe.
 - I have so much to learn from my friends.
 - Friends are happy for my wins.
 - Friends are not always supportive, but they want me the best.
-- I am = my peer group's expectations.
+- I am == my peer group's expectations.
 
 * Partner/Spouse/Romance - However you define these relationships in your life.
 - My wife is my best friend.
@@ -144,21 +145,23 @@ Explanatory. Science, politics, and the universe.
 - Every day say I love you, thank you.
 - Kiss & Hug every morning.
 - Apologies quickly if couldn't find a comprimise.
-- Happy wife = happy life.
+- Happy wife == happy life.
 - I respect her way.
 
 * Family - Brothers, sisters, aunts, uncles, children, nieces and nephews.
-- My brother is my "gemini twin" brother.
-- He is my first teacher mentor/coach.
+— My son is Cosmos for me.
+- My brother is my "gemini twin" brother. He is my first teacher mentor/coach.
 - My father is non-traditional buddhist.
 - My mom is always in my hearth.
+- My father-in-law is a great storyteller and amazing family guy.
+- My mother-in-law is a best.
+- My brother-in-law is very smart.
 
-* Pets - dots, cats, fish, bird
-– Rocky is a great teacher of unconditional love and my best friend.
-– Juk is our silent fish. He eats loudly.
+* Pets - dogs, cats, fish, bird
+– Rocky is a little buddha, great teacher of unconditional love and my best friend.
 
 ### 6. Opinions
-Words about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
+Words about how I interpret my perceptions and synthesize the meaning of reality. 6A is about what this means for my own approach to life, and 6B is about how I believe society should be structured.
 
 #### 6A. Opinions: Shoulds
 How I believe I should approach life. These are all opt-in and apply only to myself.
@@ -174,7 +177,7 @@ How I believe society should be structured.
 - Abortion should be illegal.
 - Assisted suicide should be illegal.
 - Communism + new technologies might bring a better world.
-- Health care (physical & mental) should be available and affordable to everyone who needs it.
+- Healthcare (physical & mental) should be available and affordable to everyone who needs it.
 - The death penalty should be illegal.
 - Prisons should be about protecting the public, not about punishment.
 - Marijuana is better medicine than alchohol and should be legal to grow, sell, buy, and carry.
@@ -182,8 +185,15 @@ How I believe society should be structured.
 - Owning a gun should illegal.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
 - Guaranteed basic income should be a thing available to everyone.
-- Free college education should be available to everyone who wants it.
 - Driver's license might be given person earlier if person will pass psychological test.
+- There should be no boundaries between countries. Every one has a right to travel/live anywhere where he/she wants.
+- Everyone should have health score: which might be calculated by several criterias.
+- 
+
+#### 6C. Opinions: Education
+- Free college education should be available to everyone who wants it.
+- There should be a religion science in the school which expains the differentiality and combination for every major religion.
+- In schools children should pick up any science they want and finish the project (Montessori, Bill Gates school)
 
 ### 7. Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
