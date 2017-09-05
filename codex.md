@@ -45,7 +45,7 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 
 #### Changelog
 - [history of changes to this document](https://github.com/spiritualcoach/Public/commits/master/codex.md)
-- TODO [monthly reports](https://)
+- [monthly reports](http://holyavk.in/tag/monthly-report/)
 - TODO [yearly reports](https://)
 
 ## Beliefs
@@ -158,6 +158,7 @@ Explanatory. Science, politics, and the universe.
 - My brother-in-law is very smart.
 
 * Pets - dogs, cats, fish, bird
+- “If slaughterhouses had glass walls, the whole world would be vegetarian”.
 – Rocky is a little buddha, great teacher of unconditional love and my best friend.
 
 ### 6. Opinions
@@ -188,7 +189,6 @@ How I believe society should be structured.
 - Driver's license might be given person earlier if person will pass psychological test.
 - There should be no boundaries between countries. Every one has a right to travel/live anywhere where he/she wants.
 - Everyone should have health score: which might be calculated by several criterias.
-- 
 
 #### 6C. Opinions: Education
 - Free college education should be available to everyone who wants it.
