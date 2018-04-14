@@ -28,9 +28,8 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 - TODO [5. Words about myself](#5-myself)
 - [6. Opinions: words about the meaning of reality and how myself and others should approach life](#6-opinions)
 - [7. Predictions: words about how things will be in the future](#7-predictions)
-- TODO [8. Behaviour: my current habits](#8-habits)
+- [8. Behaviour: my current habits](#8-habits)
 - TODO [9. Life path: my mission, path, ikigai](#9-mission)
-
 
 #### Glossary
  
@@ -54,7 +53,7 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 Beliefs about beliefs.
 
 - Beliefs are words/rules/affirmations/story/brain-apps/lines-of-codes that runs our lives. #Note: From this point I will call belief as "words".
-- By changing my "word set" I change my behaviour. Why? Beliefs -> Behaviour -> Habit -> Character -> Destiny
+- By changing my "word set" I change my destiny. Why? Beliefs -> Behaviour -> Habit -> Character -> Destiny
 
 - This document's purpose is to capture my words about anything, analyze them and change to the most appropriate according to my final goal & choosen path.
 - This document's benefits grow in a compound interest kind of way, over time, as words course correct over time, and build on one another.
@@ -67,29 +66,30 @@ Beliefs about beliefs.
 
 
 #### Metaphysics:
-- There is Ego and Now. When it's now there is no Ego.
+- There is Ego and Now. When it's Now (I am present) there is no Ego.
 - Life is a game. Enjoy it.
+- Life is a pain. To reduce it I think less, eat less, buy less, meditate more.
 - Karma/luck/destiny/call/butterfly-effect exists/works: every event has cause and effect.
-- You can only **feel** the True/source/God/soul/right/meaning/purpose/randomness, not **understand** it. My purpose is to be an awesome dad.
+- You can only **feel** the Truth/source/God/soul/meaning/purpose/randomness, not **understand** it.
 - Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. Everything is changing, even permanent constants.
 - Wisdom is a knowleadge applied to life.
 - Evolution is the nature is learning by itself.
-- If you want to understand recursion you need to understand recursion.
-- Everything is going through cycle born and die.
-- The Secret/transurfing works. Observe your thoughts. Think positive. Visualize your future.
-- Placebo works better if you believe on it deeper with no doubt.
+- If I want to understand recursion I need to understand recursion.
+- Everything is going through cycle: born and die. I born and die every day.
+- The Secret/transurfing/intention works: Observe your thoughts. Think positive. Visualize your future.
+- Placebo works better if you believe with no doubt.
 - Everything is the one/counsisncessness/the-matrix/AI, we are all connected.
 
 #### 3. Perceptions.
 Supersenses. My take on the spiritual and supernatural.
 
 - Writing my mission/final_goal/destiny/call/way/path is like knowing the future: Bring awareness/counsisncessness to changes.
-- My self-declared purpose is to enjoy quality time (with myself, my kids, my wife, my relatives, my friends, my partners) by discovering and removing obstacles that hinder quality time.
+- My self-declared purpose is to enjoy quality time (with myself, my kids, my wife, my family, my friends, my partners) by discovering and removing obstacles that hinder quality time.
 - Frequently remembering we will die increases the quality of our life.
 - Soul is a word describes the deepest meaning of person/animal/object.
 — Spirit translated as a breath.
 - Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
-- Astrology/stars/sun/planets influent to us by gravitation.
+- Astrology/stars/sun/planets influent to us by gravitation, the ultimate force.
 - Science can't explain everything. Most in the "not yet" bucket, but some in the "never" bucket.
 - Heaven/God/angels and hell/devil/demons starts from inside out.
 — Jesus, Buddha, Muhammad, Confucious were extraordinary human beings.
@@ -97,83 +97,89 @@ Supersenses. My take on the spiritual and supernatural.
 Explanatory. Science, politics, and the universe.
 
 - We probably live in a simulation (the matrix) (see digital realism).
-— We are biorobots (habits == apps), or phylosophical zombies (life addicted).
+— We are biorobots (habits == brain apps), or phylosophical zombies (life addicted).
 - Other dimensions and universes exist.
 - Micro and macro evolution happens.
 - Big Bang is like a reboot of the universe or a multiverse multiplication through the wormhole/black-hole.
 - Nothing in our universe can travel faster than light.
 - The human brain (in its current state of evolution) can't comprehend our universe or multiverse.
 - Non-carbon-based life forms exist.
-- Aliens exist. Mostly our ancients/gods are aliens. We have aliens dna.
+- Aliens exist. Mostly our ancients/gods are aliens. We have an aliens' DNA.
 - Chakras exists.
-- Aura is electro-magnetic field of the human body.
+- Aura is electro-magnetic field of the human body. 
+- Detoxing cleans aura and increase frequency of thoughts.
 - Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 - Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy, healthcare, travel, education).
 - Privacy is just a side effect of people not being truly connected.
 - Being good/moral increasingly becomes our default state as we learn more about ourselves, the world and are more connected with each other.
-- For most questions answers might be found inside the self, Google & Wikipedia.
+- For most questions answers might be found inside the self, search engine & Wikipedia.
 - Logic is a helpful tool, but has flaws and can't be relied on entirely.
 - Acupuncture works, somehow.
-- Some vaccinations might be good, but better to improve immune system by cold shower, fasting & meditation.
+- Some vaccinations might be good, but better to improve immune system by cold, fasting, raw food diet & meditation.
 - Editing DNA might be helpful.
 - AI exists and getting more aware of itself.
 
 ### 4. Relationship believes
 
-— People are the most important in this life.
+— People are the doors to new worlds, opportunities. They are mirrors and I can become more aware of myself through them.
 - The most important person is that who is in front of me.
 - The meaning of life is in connections.
 
 * Stranger - from the grocery checker to people on continents you may never visit.
-- Everyone has a purpose.
-- When americans ask first time how do you do - tell them shortly. It's just an app of greetings.
+- Everyone has ikigai/life-purpose.
+- When americans ask first time how do you do - respond positively and ask an unusual question. It's an opportunity to know this person better.
 - If I met you there is some purpose of our connection.
-- I can coach anyone who needs it.
+- I can coach anyone who needs it, but I prefer to focus on entrepreneurs.
+- Call everyone by their name. It's a gateway to their deeper i.
+- Be the dumpest person in the room.
+- Apologies quickly if my actions hurt an other person.
 
 * Friend - the people you like to hang out with.
 - Treat this person if it's only the one person besides you on this planet.
 - Spend 1hr+ with my friend every week.
-- Keep in touch with friends.
-- I have so much to learn from my friends.
+- Birthday is a special day for a person. Some of them don't like it.
 - Friends are happy for my wins.
-- Friends are not always supportive, but they want me the best.
-- I am == my peer group's expectations.
+- Friends are not always show support, but they want me the best.
+- I am == my friends' expectations.
 
 * Partner/Spouse/Romance - However you define these relationships in your life.
 - My wife is my best friend.
 - At least one 2hr+ date each week helps to keep it healthy.
 - Every day say I love you, thank you.
-- Kiss & Hug every morning.
-- Apologies quickly if couldn't find a comprimise.
+- Kisses & hugs every morning.
 - Happy wife == happy life.
 - I respect her way.
 
-* Family - Brothers, sisters, aunts, uncles, children, nieces and nephews.
-— My son is Cosmos for me.
-- My brother is my "gemini twin" brother. He is my first teacher mentor/coach.
-- My father is non-traditional buddhist.
-- My mom is always in my hearth.
-- My father-in-law is a great storyteller and amazing family guy.
-- My mother-in-law is a best.
+* Family - kids, wife, parents, brothers, sisters, aunts, uncles, children, nieces and nephews.
+— My son is continue of my and my wife's heritage.
+- My brother is my "gemini twin". He is my first teacher mentor/coach. He is like a father for me.
+- My father is non-traditional buddhist. He can be ok with everything.
+- My mom is always in my hearth. She tought me how not to build relationship with spouse and drugs (alchohol, coffee).
+- My grandmother is teaching me how to deal with sugar. She is a good role model: be kind, humble and what to do with alchohol.
+- My father-in-law is my "rich dad". He is a great storyteller and amazing family guy.
+- My mother-in-law is a best mother-in-law.
 - My brother-in-law is very smart.
 
 * Pets - dogs, cats, fish, bird
 - “If slaughterhouses had glass walls, the whole world would be vegetarian”.
-– Rocky is a little buddha, great teacher of unconditional love and my best friend.
+— We use pets for fullfilling our emptiness.
+– Rocky is a little buddha, great teacher of unconditional love.
 
 ### 6. Opinions
 Words about how I interpret my perceptions and synthesize the meaning of reality. 6A is about what this means for my own approach to life, and 6B is about how I believe society should be structured.
 
 #### 6A. Opinions: Shoulds
 How I believe I should approach life. These are all opt-in and apply only to myself.
+I should be an awesome dad.
 I should be proactive.
 I should constantly grow.
-I should be a good example for others.
+I should be a good example for my others.
 I should live moral life.
 
 #### 6B. Opinions: Society
 How I believe society should be structured.
 
+- Having a baby should require to pass a test: psychological, social, logical. 
 - Gay marriage should require a paper from a psychotherapist.
 - Abortion should be illegal.
 - Assisted suicide should be illegal.
@@ -188,24 +194,26 @@ How I believe society should be structured.
 - Guaranteed basic income should be a thing available to everyone.
 - Driver's license might be given person earlier if person will pass psychological test.
 - There should be no boundaries between countries. Every one has a right to travel/live anywhere where he/she wants.
-- Everyone should have health score: which might be calculated by several criterias.
+- Everyone should have health score: which might be calculated by several criterias (sleep, sport, ave/min/max heart rate).
+- All drugs (alchohol, weed, cooked food, meat/milk, coffee, sugar, salt, vinegar, cosmetics) should have noticable warning sign on the package, like tabaccoo.
+- There should be no problem to travel around the globe for anyone who will pass a test.
 
 #### 6C. Opinions: Education
 - Free college education should be available to everyone who wants it.
-- There should be a religion science in the school which expains the differentiality and combination for every major religion.
+- There should be a religion science in the school which expains the differentiality and combination for every major religion and teaches basics of praying or meditation, depends what a person like.
 - In schools children should pick up any science they want and finish the project (Montessori, Bill Gates school)
 
 ### 7. Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 #### 7. Predictions: By 2025
-- Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
+- Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world. Sea level will go upper.
 - The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimer's) but not stop there.
 - Self-driving vehicles will begin to replace truck & taxi drivers, impacting employment rates in the country.
 
 #### 7. Predictions: By 2030
-- We'll have a President that admits to being atheist or agnostic.
-- Safe, genetically modified foods will become the norm.
+- We'll have a president that admits to being atheist or agnostic.
+- Safe, genetically modified foods will become the norm. Organic, non-GMO food will cost even more than now comparing with GMO.
 - The equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
 
 #### 7. Predictions: By 2050
@@ -214,12 +222,99 @@ How I think things will be in the future, based on the approximate year I think 
 - People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
 - Solar will overcome gas and oil in usage.
 - We will get first colony on Mars.
+- There will be VR will recreate smell and taste feelings.
 
 #### 7. Predictions: By 2100
-- There will be 10 billion people on the planet at once.
+- There will be 100 billion people on the planet at once.
 - Physical travel will be almost unnecessary due to virtual reality technology.
 - The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
 - Humans, computers, and Earth will evolve into at least one super organism or networked brain.
+
+#### 8. Habits
+
+**AM rituals**
+Cosmos time (10-60 mins)
+Mirror
+Meditation (5-15 mins)
+Eyes excercises (0-2 mins)
+Rocky (0-10 mins)
+Zavtrak (80-100% raw)
+Hugs & kisses (I love you, thank you)
+
+**Maintaince**
+**body**
+tennis 1-2 a month
+walking|standing 40-60 hrs a week
+sitting 20 a week
+sex 1-2 a week
+massage 2-3 a week on the chair
+
+**surrounds**
+car 30 mins a month
+house 8-10 hrs a month
+devices 4-5 hrs a month
+shopping 4-7 hrs a month
+
+**Work**
+Brookstone 120-140 hrs a month
+Penxy 15-20 hrs a month
+Chatbots 15-20 hrs a month
+
+**I eat**
+20% raw - 70% fruits, 30% veggies
+79% vegan
+cocoa (chocolate)
+
+**I do not eat**
+2-4 times a month
+2-4 distilled water
+0-1 dry fasting
+
+**I drink**
+distilled water 5-6 a week
+coffeine - 60% tea, 40% coffee
+
+**I work on avoiding these**
+sugar 5-7 a week
+weed 5-7 a week
+fried 4-7 a week
+cooked 1-3 a day
+plastic every day
+internet 2-7 hrs a day
+
+**I refuse**
+meat 2-4 a month
+milk 10-20 a month
+alcohol 1-2 a month
+porn 1-3 a month
+
+
+**sleep**
+8-10 hrs
+wake up 9-11 am
+go to bed 11p-2a
+meditate 1-2 a week
+
+**stress**
+2-4 a week
+
+
+
+**friends & family**
+2-4 hrs one-on-one with Cosmos
+3-4 hrs a month call to Russia
+3-4 hrs a month family days
+1-2 hrs a month friend time
+0-2 hrs a month networking time
+
+**I use apps**
+iOS: iMessege, Telegram, Mail, Evernote;
+Mac: Safari, Notes, 
+
+**To migrate**
+Evernote -> Notes (5k+ are super slow on Notes)
+Chrome -> Safari (still have no several cool features)
+All social networks/messengers -> Telegram
 
 ## Glossary
  
@@ -227,7 +322,7 @@ How I think things will be in the future, based on the approximate year I think 
 This document was started in [August of 2016](https://github.com/spiritualcoach/Public/commit/c99899e11d49a471ba31857320fd76245c2e39ab) as a result of an following VIP coaching on Coach.me.
 
 ### Codex vitae
-This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
+This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. Also it's a good message to my kids, so they can see the evolution of my vision. 
 
 ### Quality time
 My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
@@ -240,7 +335,7 @@ Writing I've loved and come back to a bunch of times.
 
 
 ### Books 
-"Tell me what books you read and i will predict your future."
+"Tell me what books you read and i will predict your future." - me.
 
 Each of these books has changed how I see the world. Few words about each book.
 * 7 Habits of Highly Effective People. Steven Covey - habits shape destiny.
@@ -248,53 +343,53 @@ Each of these books has changed how I see the world. Few words about each book.
 * The Secret. Rhonda Byrne - The law of attraction.
 * Reality Transurfing. Zeland - The law of attraction in Russian.
 * The obstacle is the way. Ryan Holiday. - The obstacle is the way.
-* Ego is the enemy. Ryan Holiday. - Ego is the friend.
-* The Easy Way to Stop Drinking. Allen Carr. - Vodka is evil.
+* Ego is the enemy. Ryan Holiday. - From inside out.
+* The Easy Way to Stop Drinking. Allen Carr. - Vodka is evil. Helped me to stop drinking.
 * The Lord of the Rings. J.R.R. Tolkien. - Extraordinarity creates an attachment.
 * Rich Dad, Poor Dad. Robert Kiyosaki. - entrepreneur/investor gets out from rat races.
 * The Millionaire Next Door. Thomas J. Stanley - stay humble.
 * Delivering Happiness: A Path to Profits, Passion, and Purpose. Tony Hsieh - declare a company mission.
-* Rework. Jason Fried. - work online.
+* Rework. Jason Fried. - work remotely.
 * Тайм-драйв : Как успевать жить и работать. Глеб Архангельский - plan, track & analyze your time.
 * The Monk Who Sold His Ferrari. Robin S. Sharma - be a monk.
 * Never Eat Alone. Keith Ferrazzi - meet new people.
-* Лабиринт отражений - internet is everything.
-* Arnold: The Education of a Bodybuilder. Arnold Schwarzenegger - focus on what you do now.
-* Холодные берега. Sergei Lukyanenko - the word is power.
-* Awaken the Giant Within. Anthony Robbins - how to change yourself.
-* The 4-Hour Workweek. Tim Ferriss - it's possible.
-* Night Watch. Sergei Lukyanenko - there are other people all around you.
+* Лабиринт отражений - internet is the future.
+* Arnold: The Education of a Bodybuilder. Arnold Schwarzenegger - be 100% focused (body, mind & soul) on what you do at current moment.
+* Холодные берега. Sergei Lukyanenko - words create universes.
+* Awaken the Giant Within. Anthony Robbins - improve yourself.
+* The 4-Hour Workweek. Tim Ferriss - optimize your work & life.
+* Night Watch. Sergei Lukyanenko - there are different people all around you.
 * The Picture of Dorian Gray. Oscar Wilde - don't attach to your outter beauty.
 * The Autobiography of Benjamin Franklin - write your speech.
 * Jonathan Livingston Seagull. Richard Bach - believe in yourself.
 * Рыцари Сорока Островов. Мальчик и Тьма. Sergei Lukyanenko - good friend is rare.
 * Benjamin Franklin: An American Life. Isaacson, Walter - be an entrepreneur.
 * You Can Heal Your Life. Louise L. Hay - only you can heal yourself.
-* Алмазная колесница. Boris Akunin - evil is part of us.
+* Алмазная колесница. Boris Akunin - evil is part of good.
 * Steve Jobs. Isaacson, Walter - think differently.
-* Think and Grow Rich. Napoleon Hill - how to use mind to get rich.
+* Think and Grow Rich. Napoleon Hill - visualize to get rich.
 * The Richest Man in Babylon. George S. Clason - pay yourself first.
-* Getting Things Done. David Allen - catch ideas to inbox. Inbox 0.
+* Getting Things Done. David Allen - catch ideas to inbox. Zero your inbox every day.
 * The Hobbit. J.R.R. Tolkien - you can create the whole new world with words.
-* Martin Eden. Jack London - write a book every day.
+* Martin Eden. Jack London - write every day.
 * Carlos Castaneda - be a warrior.
 * The Adventures of Huckleberry Finn. Mark Twain - be adventure.
-* Connect Bible Studies: The Da Vinci Code. Diana Archer - bible is the most popular book. 
+* Connect Bible Studies: The Da Vinci Code. Diana Archer - bible is the most popular book on the Earth.
 * The Wal-Mart Way. Don Soderquist - start small, think big, work hard.
-* Screw It, Let's Do It: Lessons In Life. Richard Branson - try new things.
+* Screw It, Let's Do It: Lessons In Life. Richard Branson - keep trying new things.
 * Everything Is Negotiable. Gavin Kennedy - ask and you will receive.
-* Приключения майора Звягина. Mikhail Veller - we create our luck.
+* Приключения майора Звягина. Mikhail Veller - luck is controlable.
 * Getting Real. 37 signals - hire remotely.
 * The Ethical Slut. Dossie Easton - be open minded.
 * Core Transformation. Connirae Andreas - heal your inner child and parents.
 * The 48 Laws of Power. Robert Greene - let Ego feels power.
-* The Art of War. Sun Tzu - fight with your enemy.
+* The Art of War. Sun Tzu - be strategic. Fight with your enemy.
 * Men Are from Mars, Women Are from Venus. John Gray - We are different.
 * The War of Art. - show your work.
 
 ### My writing
 Stuff that I've written that means something to me.
-TODO
+vipassana 10 days
 ***
 
 ### Yearly reports
