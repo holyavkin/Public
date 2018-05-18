@@ -63,6 +63,7 @@ Beliefs about beliefs.
 - Making and maintaining this document is useful and fun. And increasingly rewarding over time.
 
 #### Metaphysics:
+- Children are fruits of your heritage tree.
 - Everything is connected into the spirit/one/counsisncessness/the-matrix - the internet of the universe.
 - Body is a hardware. Mind/Ego (I) is a software (OS). Soul (i) is an operator (player).
 - There is Ego and Now. When i am present (it's Now) there is no Ego.
