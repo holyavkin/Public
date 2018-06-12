@@ -269,7 +269,7 @@ My own Codex Vitae's first chapter could possibly be about quality time and its 
 
 ### Books 
 "Tell me what books you have read and I will predict your future." - me.
-
+[Summary from books I have read](books.md)
 
 ### My writing
 Stuff that I've written that means something to me.
