@@ -268,58 +268,8 @@ My own Codex Vitae's first chapter could possibly be about quality time and its 
 ## Personal canon
 
 ### Books 
-"Tell me what books you read and i will predict your future." - me.
+"Tell me what books you have read and I will predict your future." - me.
 
-Each of these books has changed how I see the world. Few words about each book.
-* 80/10/10 - raw is law. eat fruits.
-* 7 Habits of Highly Effective People. Steven Covey - habits shape destiny.
-* Mind Power. John Kehoe. - subconsious can do anything.
-* The Secret. Rhonda Byrne - The law of attraction.
-* Reality Transurfing. Zeland - The law of attraction in Russian.
-* The obstacle is the way. Ryan Holiday. - The obstacle is the way.
-* Ego is the enemy. Ryan Holiday. - From inside out.
-* The Easy Way to Stop Drinking. Allen Carr. - Vodka is evil. Helped me to stop drinking.
-* The Lord of the Rings. J.R.R. Tolkien. - Extraordinarity creates an attachment.
-* Rich Dad, Poor Dad. Robert Kiyosaki. - entrepreneur/investor gets out from rat races.
-* The Millionaire Next Door. Thomas J. Stanley - stay humble.
-* Delivering Happiness: A Path to Profits, Passion, and Purpose. Tony Hsieh - declare a company mission.
-* Rework. Jason Fried. - work remotely.
-* Тайм-драйв : Как успевать жить и работать. Глеб Архангельский - plan, track & analyze your time.
-* The Monk Who Sold His Ferrari. Robin S. Sharma - be a monk.
-* Never Eat Alone. Keith Ferrazzi - meet new people.
-* Лабиринт отражений - internet is the future.
-* Arnold: The Education of a Bodybuilder. Arnold Schwarzenegger - be 100% focused (body, mind & soul) on what you do at current moment.
-* Холодные берега. Sergei Lukyanenko - words create universes.
-* Awaken the Giant Within. Anthony Robbins - improve yourself.
-* The 4-Hour Workweek. Tim Ferriss - optimize your work & life.
-* Night Watch. Sergei Lukyanenko - there are different people all around you.
-* The Picture of Dorian Gray. Oscar Wilde - don't attach to your outter beauty.
-* The Autobiography of Benjamin Franklin - write your speech.
-* Jonathan Livingston Seagull. Richard Bach - believe in yourself.
-* Рыцари Сорока Островов. Мальчик и Тьма. Sergei Lukyanenko - good friend is rare.
-* Benjamin Franklin: An American Life. Isaacson, Walter - be an entrepreneur.
-* You Can Heal Your Life. Louise L. Hay - only you can heal yourself.
-* Алмазная колесница. Boris Akunin - evil is part of good.
-* Steve Jobs. Isaacson, Walter - think differently.
-* Think and Grow Rich. Napoleon Hill - visualize to get rich.
-* The Richest Man in Babylon. George S. Clason - pay yourself first.
-* Getting Things Done. David Allen - catch ideas to inbox. Zero your inbox every day.
-* The Hobbit. J.R.R. Tolkien - you can create the whole new world with words.
-* Martin Eden. Jack London - write every day.
-* Carlos Castaneda - be a warrior.
-* The Adventures of Huckleberry Finn. Mark Twain - be adventure.
-* Connect Bible Studies: The Da Vinci Code. Diana Archer - bible is the most popular book on the Earth.
-* The Wal-Mart Way. Don Soderquist - start small, think big, work hard.
-* Screw It, Let's Do It: Lessons In Life. Richard Branson - keep trying new things.
-* Everything Is Negotiable. Gavin Kennedy - ask and you will receive.
-* Приключения майора Звягина. Mikhail Veller - luck is controlable.
-* Getting Real. 37 signals - hire remotely.
-* The Ethical Slut. Dossie Easton - be open minded.
-* Core Transformation. Connirae Andreas - heal your inner child and parents.
-* The 48 Laws of Power. Robert Greene - let Ego feels power.
-* The Art of War. Sun Tzu - be strategic. Fight with your enemy.
-* Men Are from Mars, Women Are from Venus. John Gray - We are different.
-* The War of Art. - show your work.
 
 ### My writing
 Stuff that I've written that means something to me.
