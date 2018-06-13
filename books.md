@@ -1,3 +1,5 @@
+🇷🇺 [Russian version](книги.md)
+
 Each of these books has changed how I see the world. Few words about each book.
 
 Health
@@ -68,7 +70,6 @@ Biographies
 
 Family/women/kids
 * Men Are from Mars, Women Are from Venus. John Gray - We are different.
-* The Ethical Slut. Dossie Easton - be open minded.
 
 Phylosophy/esoteric
 * Ego is the enemy. Ryan Holiday. - From inside out.
