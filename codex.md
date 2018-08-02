@@ -161,7 +161,7 @@ To balance: think less, talk less, eat less, consume less, meditate more.
 - My mother-in-law is the best mother-in-law.
 - My brother-in-law is very smart, harismatic person.
 
-* 🐶 Pets - dogs, cats, fish, bird
+* 🐶 Animals - are our neighbors on Earth.
 - “If slaughterhouses had glass walls, the whole world would be vegetarian”. Ⓒ Paul McCartni.
 — We use pets for fullfilling our emptiness.
 – Rocky is a little buddha, great teacher of unconditional love.
