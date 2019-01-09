@@ -23,9 +23,9 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 
 - [1. Metabeliefs: beliefs about beliefs](#1-metabeliefs)
 - TODO [2. My story: words about my past](#2-story)
-- [3. Believes about the world](#3-perceptions)
-- [4. Believes about others](#4-relationship)
-- TODO [5. Believes about myself](#5-myself)
+- [3. beliefs about the world](#3-perceptions)
+- [4. beliefs about others](#4-relationship)
+- TODO [5. beliefs about myself](#5-myself)
 - [6. Opinions: words about the meaning of reality and how myself and others should approach life](#6-opinions)
 - [7. Predictions: words about how things will be in the future](#7-predictions)
 - [8. Behaviour: my current habits](https://github.com/spiritualcoach/Public/commits/master/now.md)
@@ -52,37 +52,42 @@ This Codex Vitae, or "book of life", is a collection of my beliefs and concepts 
 ### 1. Metabeliefs
 Beliefs about beliefs.
 
-- Beliefs (brain apps) are a word set (lines of codes) I keep telling to itself every day.
-- By changing this word set I change its destiny. Why? Words -> Beliefs -> Behaviour -> Habit -> Character -> Destiny.
+- Beliefs (brain apps) are word sets (lines of codes) I keep telling to i-self every day.
+- By changing these word sets I change my destiny. Why? Words -> Beliefs -> Behaviour -> Habit -> Character -> Destiny.
 - This document's purpose is to optimize capture the word set about anything, analyze them and change to the most appropriate according to my [ikigai](#9-ikigai)
-- This document's benefits grow in a compound interest kind of way, over time, as words course correct over time, and build on one another.
-- It's always incomplete and out of date.
-- Some of believes will be proven wrong. Some won't be proven wrong but will be wrong anyway.
+- This document's benefits grow in a compound interest kind of way, over time, as words course-correct over time, and build on one another.
+- It's always incomplete, imperfect and out of date.
+- Some of the beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
 - I’m open to changing my mind at any time about any belief by getting new insights, evidence, persuasion, or chance.
-- I believe believes are best categorized into five types: believes about beliefs (metabeliefs, i.e. this one), believes about the world (how reality seems to be, the meaning of reality, opinions about how myself and others should approach life), believes about others, believes about myself, and believes about the future (predictions about how things will be in the future).
+- I believe beliefs are best categorized into five types: beliefs about beliefs (meta-beliefs, i.e. this one), beliefs about the world (how reality seems to be, the meaning of reality, opinions about how myself and others should approach life), beliefs about others, beliefs about myself, and beliefs about the future (predictions about how things will be in the future).
 - Making and maintaining this document is useful and fun. And increasingly rewarding over time.
 
 #### Metaphysics:
-- Children are fruits of your heritage tree.
-- Everything is connected into the spirit/one/counsisncessness/the-matrix - the internet of the universe.
-- Body is a hardware. Mind/Ego (I) is a software (OS). Soul (i) is an operator (player).
-- There is Ego and Now. When i am present (it's Now) there is no Ego.
-- For i: life is a game. Enjoy it.
-- For I: life is a pain. No pain - no gain. Learn the rules. Bend them. Win it.
-To balance: think less, talk less, eat less, consume less, meditate more.
+- 🌍 Everything (beings & non-beings) is connected into something bigger (the nature/spirit/god/one/counsisncessness/the-matrix - the internet of the universe).
 - Karma/luck/destiny/call/butterfly-effect exists/works: every event has cause and effect.
-- Only i can **feel**, **know** the Truth/God/spirit/nature/source/meaning, but I can't **understand** it.
-- Perception/sensation is the awareness of things changing. Everything is changing every moment, even permanent constants. Vibrations.
-- Wisdom is a knowleadge applied to life.
-- Evolution is the nature is learning by itself.
-- If I want to understand recursion I need to understand recursion.
-- Everything is going through cycle: born and die. I born and die every day (cells, neurons).
-- Placebo works better if I believe with no doubt. But I am not 100% sure about this.
+- 🍇 Children are fruits of human heritage tree.
+- 🌱 Evolution is the nature is learning by itself.
+- 🐚 If I want to understand recursion I need to understand recursion.
+- 🔄 Everything is going through cycle: born and die. I born and die every day (cells, neurons).
+- 💊 Placebo works better if I believe with no doubt.
+
+- 👨‍🚀 Body is the most advanced hardware, high-bio costume.
+- 🙌 There are two equilly important parts of me:
+-- 🧠 I. Mind/Ego is a software (OS). Mind needs to think/solve-problems. Always somewhere else: in the future, in the past, in the dream, in the memory.
+--- 🌳 Wisdom is a knowleadge applied to life.
+-- ⦿ i. Soul/psyche is an operator (player). Soul needs to feel/experience. Always now, always present.
+
+Possible scenarios. Choose one at the time:
+- 🕹 life is a play/game. **EnJoy** it. Play it. Do what you love.
+- 🏋️‍ life is a pain. No pain - no gain. Learn the rules. Bend them. Make the new ones. Fake it until you make it. **Win** it.
+- ☸️ life is a balance: i/I, exhale/inhale, eat/fast, think/meditate, speak/be-silent, consume/create.
+- 🧘 seek and **feel** the self/truth/god/spirit/nature/source/meaning.
 
 ### 3. Perceptions.
 **Supersenses. My take on the spiritual and supernatural.**
 
-- Reviewing [my ikigai](#9-ikigai) reminds I why I am here.
+--- 🎼 Perception/sensation is the awareness of things **changing**. Everything is changing every moment, even permanent constants. Vibrations are everywhere. Everything is vibrating.
+- Reviewing [my ikigai](#9-ikigai) reminds me why i am here.
 - My self-declared purpose is to enjoy quality time (with myself, my kids, my wife, my family, my friends, my partners) by discovering and removing obstacles that hinder quality time.
 - 💀 Frequently remembering we will die increases the quality of our life.
 - Soul is the deepest meaning of person/animal/object.
@@ -96,75 +101,77 @@ To balance: think less, talk less, eat less, consume less, meditate more.
 **Explanatory. Science, politics, and the universe.**
 
 - We probably live in a simulation (the matrix) (see digital realism).
-— 🤖 We are biorobots (habits == brain apps), or phylosophical zombies (life addicted).
+— 🤖 We are biorobots (habits == brain apps), or philosophical zombies (life addicted).
 - Other dimensions and universes exist.
-- ⏳ All possible variants of the future/past/present are exist in the same time.
+- ⏳ All possible variants of the future/past/present exist at the same time.
 - Micro and macro evolution happens.
 - 💥 Big Bang is like a reboot of the universe or a multiverse multiplication through the wormhole/black-hole.
 - ⚡️ Nothing in our universe can travel faster than light.
 - 🧠 The human brain (in its current state of evolution) can't comprehend our universe or multiverse.
 - 🛸 Non-carbon-based life forms exist.
 - 👽 Aliens exist. Mostly our ancients/gods are aliens. We have an aliens' DNA.
-- 🌪 Chakras exists.
-- Aura is electro-magnetic field of the human body. 
-- 🚿 Detoxing cleans aura and increase frequency of thoughts.
+- 🌪 Chakras exist.
+- Aura is an electromagnetic field of the human body. 
+- 🚿 Detoxing cleans aura and increases the frequency of thoughts.
 - 👀 Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 - 🤖 Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy, healthcare, travel, education).
 - 🕵️‍ Privacy is just a side effect of people not being truly connected.
 - 😇 Being good/moral increasingly becomes our default state as we learn more about ourselves, the world and are more connected with each other.
 - ❓ For most questions answers might be found inside the self, search engine & Wikipedia.
 - Logic is a helpful tool, but has flaws and can't be relied on entirely.
-- Acupuncture, reflexology, chiropractice works, somehow.
-- 💉 Some vaccinations might be good, but better to improve immune system by cold, fasting, raw food diet & meditation.
+- Acupuncture, reflexology, iridology, chiropractic works, somehow.
+- 💉 Some vaccinations might be good, but better to improve the immune system by cold, fasting, raw food diet & meditation.
 - Editing DNA might be helpful.
 - 🤖 AI exists and getting more aware of itself.
 
-### 4. Relationship
+### 4. Relationships
 
-— 🚪 People are the doors to new worlds, opportunities. They are mirrors and I can become more aware of myself through them.
-- The most important person is that who is in front of me.
-- 🤝 The meaning of life is in connections.
+* 🚪 People are the doors to new worlds, opportunities.
+- 🤳 They are mirrors and I can become more aware of myself through them.
+- 👁 The most important person is that who is in front of me.
+- 🤝 The meaning of life is in building connections.
 
-* Stranger - from the grocery checker to people on continents you may never visit.
+* 👽 Stranger - from the grocery checker to people on continents you may never visit.
+- He could be my friend, mentor(e) or client.
 - Everyone has ikigai/life-purpose.
-- When americans ask first time how do you do - respond positively and ask an unusual question. It's an opportunity to know this person better.
 - If I met you there is some purpose of our connection.
-- I can coach anyone who needs it, but I prefer to focus on entrepreneurs.
+- When Americans ask first time how do you do - respond positively and ask an unusual question. It's an opportunity to know this person better.
 - Call everyone by their name. It's a gateway to their deeper i.
-- Be the dumpest person in the room.
-- Apologies quickly if my actions hurt an other person.
+- Be the dumbest person in the room.
+- Apologies quickly if my actions hurt another person.
 
-* 🧔 Friend - the people you like to hang out with.
-- Treat this person if it's only the one person besides you on this planet.
+* 🧔 Friend is the person you like to hang out with.
+- Treat this person if it's only the one person beside you on this planet.
 - Spend 1hr+ with my friend every week.
 - Birthday is a special day for a person. Some of them don't like it.
 - Friends are happy for my wins.
-- Friends are not always show support, but they want me the best.
+- Friends are not always shown support, but they want me the best.
 - I am == my friends' expectations.
 
-* 👰 Partner/Spouse/Romance - However you define these relationships in your life.
-- My wife is my best friend.
+* 👰 Spouse.
+- My wife, Katya, is my best friend.
 - At least one 2hr+ date each week helps to keep it healthy.
 - Every day say: "I love you" ❤️, "thank you" 🙏.
 - Kiss 😘 & hug 🤗 every morning.
 - Happy wife == happy life.
 - I respect her way.
 
-* 👶 Family - kids, wife, parents, brothers, sisters, aunts, uncles, children, nieces and nephews.
-— My son is continue of my and my wife's heritage.
-- My son is a guest in our house. My purpose is to feed, spend time, let him grow his way.
-- My brother is my "gemini twin". He is my first teacher mentor/coach. He is like a father for me.
-- My father is non-traditional buddhist. He can be ok with everything.
-- My mom is always in my hearth. She tought me how not to build relationship with spouse and drugs (alchohol, coffee).
-- My grandmother is teaching me how to deal with sugar. She is a good role model: be kind, humble and what to do with alchohol.
-- My father-in-law is my "rich dad". He is a great storyteller and amazing family guy.
-- My mother-in-law is the best mother-in-law.
-- My brother-in-law is very smart, harismatic person.
+* 👶 Family are the most important people.
+- My son, Cosmos, continues of my and my wife's heritage.
+- He is my best friend too.
+- He is a guest in our house. My purpose is to feed, spend time with him, let him grow his way.
+- My brother is my "Gemini twin". He is my first mentor/coach. He is like a second father to me.
+- My father is non-traditional buddhist. He taught me how to be ok with anything.
+- My mom is always in my heart. She taught me how to be closer to nature, not to build a relationship with spouse and drugs (alcohol, coffee).
+- My grandmother taught how to love nature, be kind, humble and what to do with alcohol.
+- My father-in-law is my "rich dad". He is a great storyteller and an amazing family guy.
+- My mother-in-law is the best mother-in-law I could ever imagine.
+- My brother-in-law is a very smart, charismatic person.
 
-* 🐶 Animals - are our neighbors on Earth.
-- “If slaughterhouses had glass walls, the whole world would be vegetarian”. Ⓒ Paul McCartni.
-— We use pets for fullfilling our emptiness.
-– Rocky is a little buddha, great teacher of unconditional love.
+* 🐶 Animals are our roommates on Earth.
+- “If slaughterhouses had glass walls, the whole world would be vegetarian”. Ⓒ Paul McCartney.
+— We use pets for fulfilling our emptiness.
+– Rocky, my dog is a little Buddha, a great teacher of unconditional love.
 
 ### 6. Opinions
 Words about how I interpret my perceptions and synthesize the meaning of reality. 6A is about what this means for my own approach to life, and 6B is about how I believe society should be structured.
