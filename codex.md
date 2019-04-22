@@ -64,20 +64,23 @@ Beliefs about beliefs.
 
 #### Metaphysics:
 - 🌍 Everything (beings & non-beings) is connected into something bigger (the nature/spirit/god/one/counsisncessness/the-matrix - the internet of the universe).
+- 👥 Humanity is a big organism. There are healthy cells (egoists) and cancer cells (egocentrists).
 - Karma/luck/destiny/call/butterfly-effect exists/works: every event has cause and effect.
 - 🍇 Children are fruits of human heritage tree.
 - 🌱 Evolution is the nature is learning by itself.
 - 🐚 If I want to understand recursion I need to understand recursion.
 - 🔄 Everything is going through cycle: born and die. I born and die every day (cells, neurons).
-- 💊 Placebo works better if I believe with no doubt.
+- 💊 Placebo works better if I believe in it with no doubt.
 
-- 👨‍🚀 Body is the most advanced hardware, high-bio costume.
-- 🙌 There are two equilly important parts of me:
--- 🧠 I. Mind/Ego is a software (OS). Mind needs to think/solve-problems. Always somewhere else: in the future, in the past, in the dream, in the memory.
---- 🌳 Wisdom is a knowleadge applied to life.
--- ⦿ i. Soul/psyche is an operator (player). Soul needs to feel/experience. Always now, always present.
+- 🙌 There are two parts of me:
+-- ⦿ i is a counsisncessness. Soul/psyche is an operator (player/pilot). Soul needs to feel/experience. Always now, always present. i can bring attention (observe) to different parts of I.
+-- 👨‍🚀 I have a body, a high-bio costume, a receiver. Control these parts:
+--- 🧠 Mind/Ego, which needs to think/solve-problems. Most of the times it is on the autopilot: in the future, in the past, in a dream, in a memory. Sometimes it's off: in a mediation.
+--- 💪 Muscles need to be used every day.
+--- 👄 Stomach. You are what you eat. 
+--- 🌬 Lungs are the air pumps.
 
-Possible scenarios. Choose one at the time:
+Possible scenarios. Choose one at the time, or mix them together if you bored:
 - 🕹 life is a play/game. **EnJoy** it. Play it. Do what you love.
 - 🏋️‍ life is a pain. No pain - no gain. Learn the rules. Bend them. Make the new ones. Fake it until you make it. **Win** it.
 - ☸️ life is a balance: i/I, exhale/inhale, eat/fast, think/meditate, speak/be-silent, consume/create.
@@ -88,11 +91,11 @@ Possible scenarios. Choose one at the time:
 
 --- 🎼 Perception/sensation is the awareness of things **changing**. Everything is changing every moment, even permanent constants. Vibrations are everywhere. Everything is vibrating.
 - Reviewing [my ikigai](#9-ikigai) reminds me why i am here.
-- My self-declared purpose is to enjoy quality time (with myself, my kids, my wife, my family, my friends, my partners) by discovering and removing obstacles that hinder quality time.
+- My self-declared purpose is to enjoy quality time (with myself, my son, my wife, my relatives, my friends, my partners) by discovering and removing obstacles that hinder quality time.
 - 💀 Frequently remembering we will die increases the quality of our life.
-- Soul is the deepest meaning of person/animal/object.
-— Spirit translated as a breath.
-- The Secret/transurfing/intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
+- Soul is the deepest meaning of a being.
+— 😤 Spirit translated as a breath.
+- 👀 The Secret/transurfing/intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
 - 👨‍🚀 Astrology/stars/sun/planets influent to us by gravitation, the ultimate force. Maybe.
 - ⚛️ Science can't explain everything. Most in the "not yet" bucket, but some in the "never" bucket.
 - ☯️ Heaven/God/Creator/angels and hell/devil/demons starts from inside out.
@@ -102,16 +105,16 @@ Possible scenarios. Choose one at the time:
 
 - We probably live in a simulation (the matrix) (see digital realism).
 — 🤖 We are biorobots (habits == brain apps), or philosophical zombies (life addicted).
-- Other dimensions and universes exist.
+- 🌀 Other dimensions and universes exist.
 - ⏳ All possible variants of the future/past/present exist at the same time.
 - Micro and macro evolution happens.
 - 💥 Big Bang is like a reboot of the universe or a multiverse multiplication through the wormhole/black-hole.
 - ⚡️ Nothing in our universe can travel faster than light.
 - 🧠 The human brain (in its current state of evolution) can't comprehend our universe or multiverse.
 - 🛸 Non-carbon-based life forms exist.
-- 👽 Aliens exist. Mostly our ancients/gods are aliens. We have an aliens' DNA.
-- 🌪 Chakras exist.
-- Aura is an electromagnetic field of the human body. 
+- 👽 Aliens exist. Mostly our ancients/gods are aliens.
+- 🌪 Chakras exist and are located in important nerve body centers.
+- Aura is an electromagnetic field of the human body.
 - 🚿 Detoxing cleans aura and increases the frequency of thoughts.
 - 👀 Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 - 🤖 Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy, healthcare, travel, education).
@@ -120,8 +123,8 @@ Possible scenarios. Choose one at the time:
 - ❓ For most questions answers might be found inside the self, search engine & Wikipedia.
 - Logic is a helpful tool, but has flaws and can't be relied on entirely.
 - Acupuncture, reflexology, iridology, chiropractic works, somehow.
-- 💉 Some vaccinations might be good, but better to improve the immune system by cold, fasting, raw food diet & meditation.
-- Editing DNA might be helpful.
+- 💉 Some vaccinations might be helpful in specific areas, but better to improve the immune system by cold, fasting, raw vegan diet, excercises & meditation (and other stress-dealing tools).
+- Editing DNA might be helpful for a short term, but bring irreversable outcomes to the future generations.
 - 🤖 AI exists and getting more aware of itself.
 
 ### 4. Relationships
@@ -168,7 +171,7 @@ Possible scenarios. Choose one at the time:
 - My mother-in-law is the best mother-in-law I could ever imagine.
 - My brother-in-law is a very smart, charismatic person.
 
-* 🐶 Animals are our roommates on Earth.
+* 🐶 Animals are our housemates on Earth.
 - “If slaughterhouses had glass walls, the whole world would be vegetarian”. Ⓒ Paul McCartney.
 — We use pets for fulfilling our emptiness.
 – Rocky, my dog is a little Buddha, a great teacher of unconditional love.
@@ -178,62 +181,43 @@ Words about how I interpret my perceptions and synthesize the meaning of reality
 
 #### 6A. Opinions: Shoulds
 How I believe I should approach life. These are all opt-in and apply only to myself.
-- I should be an awesome dad.
-- I should be proactive.
-- I should constantly grow.
-- I should live moral life.
-- I should do to others the same as I want others do to me.
-- I should regularly verify that I want to continue opting-in to everything in this document on the first of every month.
-- I should create a new monthly report on the first of every month.
-- I should create a new yearly report every year on my birthday.
-- I should be my word.
-- I should have good intentions.
+- I should do what I want.
 - I should admit to being the maker of my own meaning.
-- I should not feel sorry for myself and avoid competitive suffering.
-- I should have a vision that I'm striving for.
-- I should rally others with my vision.
 - I should be the change I want to see.
-- I should stake my reputation on my better self.
-- I should be comfortable with the consequences of being who I am.
 - I should study my mistakes.
 - I should retry things I don’t like every once in a while.
-- I should go slow, work hard and carefully use shortcuts.
 - I should cultivate quality time with myself, with others, and with my interests.
 - I should face things that make me uncomfortable.
-- I should take responsibility for things I find important, even if I can’t fully control them.
 
 #### 6B. Opinions: Society
 How I believe society should be structured.
 
 - Having a baby should require to pass a test for adultness.
 - Gay marriage should require a paper from a psychotherapist.
-- Abortion should be illegal.
-- Assisted suicide should be illegal.
 - Communism + new technologies might bring a better world.
-- Healthcare (physical & mental) should be available and affordable to everyone who needs it.
-- The death penalty should be illegal.
+- Healthcare (physical & mental) should be free to everyone.
+- Killing (people, animals) should be illegal. This includes: death penalty, abortion and assisted suicide.
 - Prisons should be about protecting the public, not about punishment.
-- Marijuana is better medicine than alchohol and should be legal to grow, sell, buy, and carry.
-- Owning a gun should illegal.
+- Owning a gun should be illegal.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
 - Guaranteed basic income should be a thing available to everyone.
 - Driver's license might be given person earlier than 16 if person will pass psychological test.
-- Everyone should have health score: which might be calculated by several criterias (sleep, sport, ave/min/max heart rate, stool/urine test, weight/height ratio).
-- All drugs (alchohol, weed, coffee, sugar, meat/milk, cooked food, salt, vinegar) should have noticable warning sign on the package, like tabaccoo & explained in schools.
-- There should be no problem to travel around the globe for anyone who will pass a test.
+- Everyone should have health score: which might be calculated by several criterias (sleep, sport, ave/min/max heart rate, stool/urine/blood test, weight/height ratio).
+- All drugs (alchohol, marijuana, coffee, added sugar, meat/milk, cooked food, salt, vinegar) should have noticable warning sign on the package, like tabaccoo & explained in schools. Also it should be provided by a prescription.
 
 #### 6C. Opinions: Education
 - Free college education should be available to everyone who wants it. However, if a person don't finish it - he ought to pay for the classes he took.
-- There should be a religion science in the school which expains the differentiality and combination for every major religion and teaches basics of praying or meditation, depends what a person like.
-- In schools children should pick up any science they want and finish the project (like inMontessori, Bill Gates school)
+- There should be a religion science in the school which explains the differentiality and combination for every major religion and teaches basics of praying or meditation, depends what a person tends to.
+- There should be a social media science in the school which explains how to use social media.
+- In schools children should pick up any science they want and finish the project (like in Montessori, or Bill Gates school)
 
 ### 7. Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 #### 7. Predictions: By 2025
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world. Sea level will go upper. Some cities on the shores will go under water.
-- The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimer's) but not stop there. This also will create mutations. It will take 10-20 years to master this technology.
-- Self-driving vehicles will begin to replace truck & taxi drivers, impacting employment rates in the country. More programmers jobs will be on the market.
+- The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimer's) but not stop there. This also will create mutations. It will take 50-70 years to master this technology.
+- Self-driving vehicles will begin to replace truck & taxi drivers, impacting employment rates in the world. More programmers jobs will be on the market.
 
 #### 7. Predictions: By 2030
 - We'll have a president that admits to being atheist or agnostic.
@@ -244,22 +228,22 @@ How I think things will be in the future, based on the approximate year I think 
 #### 7. Predictions: By 2050
 - There would be more than half of Earth's population who stop eat animals.
 - There would become a major phylosophy which will unite most people on the planet.
-- Computers will be building better computers than humans.
+- Computers will build better computers than humans.
 - Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
 - People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
 - Solar will overcome gas and oil in usage.
-- We will get first colony on Mars or under the water.
+- We will get first colony on Mars or under the water or in the sky.
 
 #### 7. Predictions: By 2100
-- There will be 10 billion people on the planet at once.
+- There will be 20 billion people on the planet at once.
 - Physical travel will be almost unnecessary due to virtual reality technology.
 - The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
 - Humans, computers, and Earth will evolve into at least one super organism or networked brain.
 
 ### 9. Ikigai
 aka destiny/mission/final_goal/destiny/call/way/path:
-I am here to make the world the better place.
-Be happy, healthy & wealthy. Live by family + dhamma + fruits.
+I am here to make the world the better place by showing an example of
+Being happy, healthy & wealthy. Live by family + dhamma + fruits.
 
 ## Glossary
  
