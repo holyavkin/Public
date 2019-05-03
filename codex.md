@@ -89,7 +89,7 @@ Possible scenarios. Choose one at the time, or mix them together if you bored:
 ### 3. Perceptions.
 **Supersenses. My take on the spiritual and supernatural.**
 
---- 🎼 Perception/sensation is the awareness of things **changing**. Everything is changing every moment, even permanent constants. Vibrations are everywhere. Everything is vibrating.
+--- 🎼 Perception/sensation is the awareness of things **changing**. Everything is changing every moment, even permanent constants. Vibrations are everywhere. Everything is vibrating on some level.
 - Reviewing [my ikigai](#9-ikigai) reminds me why i am here.
 - My self-declared purpose is to enjoy quality time (with myself, my son, my wife, my relatives, my friends, my partners) by discovering and removing obstacles that hinder quality time.
 - 💀 Frequently remembering we will die increases the quality of our life.
@@ -215,7 +215,7 @@ How I believe society should be structured.
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 #### 7. Predictions: By 2025
-- Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world. Sea level will go upper. Some cities on the shores will go under water.
+- Global climate changing will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world. Sea level will go upper. Some cities on the shores will go under water.
 - The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimer's) but not stop there. This also will create mutations. It will take 50-70 years to master this technology.
 - Self-driving vehicles will begin to replace truck & taxi drivers, impacting employment rates in the world. More programmers jobs will be on the market.
 
@@ -232,7 +232,7 @@ How I think things will be in the future, based on the approximate year I think 
 - Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
 - People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
 - Solar will overcome gas and oil in usage.
-- We will get first colony on Mars or under the water or in the sky.
+- We will get first colony on Mars, under the water, and in the sky.
 
 #### 7. Predictions: By 2100
 - There will be 20 billion people on the planet at once.
